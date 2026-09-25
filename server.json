@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/umls",
   "title": "Umls",
   "description": "UMLS MCP — wraps the NLM UMLS Terminology Services REST API (uts-ws.nlm.nih.gov/rest)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/umls",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-umls",

@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-umls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "UMLS MCP — wraps the NLM UMLS Terminology Services REST API (uts-ws.nlm.nih.gov/rest)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-d431236537c13eebe256180ed93b7b30a7513d441b597e81abd6dbf9aa92391e",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }
